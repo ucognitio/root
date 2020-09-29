@@ -1,2 +1,2 @@
-# dev
-Ucognitio dev webpage.
+# root
+Ucognitio webpage.
